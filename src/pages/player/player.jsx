@@ -1,7 +1,6 @@
 import { useEffect, useState, useRef, useLayoutEffect } from 'react'
 import './player.css'
 import song from "../Home/songs.js"
-import testImage from "../Home/pictures/music-placeholder.png"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCirclePlay, faCirclePause, faUpRightAndDownLeftFromCenter, faForwardStep,faVolumeLow, faBackwardStep, faShuffle, faRepeat, faPlus, faMicrophone, faBars, faDesktop } from '@fortawesome/free-solid-svg-icons'
 
@@ -176,7 +175,7 @@ function Player({ selectedSong }) {
             ) : (
                 <>
                     <div className="track-info invisible">
-                    <img src={testImage} className='track-img'/>
+                    <img src="" className='track-img'/>
                 <div className="track-info-detail">
                     <h1 className='m-0 text-white'>Select a song to play</h1>
                     <span className='m-0 text-gray-400'>Song Title</span>

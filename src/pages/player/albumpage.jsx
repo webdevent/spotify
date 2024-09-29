@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faPlay, faPlus, faEllipsis } from '@fortawesome/free-solid-svg-icons'
 import { faClock } from '@fortawesome/free-regular-svg-icons'
-import logoImg from "../Home/pictures/spotify-logo.png"
+import logoImg from "../pictures/spotify-logo.png"
 import albumList from '../Home/Album.js'
 import "./albumpage.css"
 

@@ -1,10 +1,10 @@
-import chrisBrownCover from "./pictures/cbcover.png"
-import popSmokeCover from "./pictures/pscover.jpg"
-import brysonTillerCover from "./pictures/brsyson-tiller-cover.jpeg"
-import migosCover from "./pictures/mgcover.webp"
-import wizKhalifa from "./pictures/wizkhacover.jpg"
-import popSmokeCoverImg from './pictures/pop-smoke-song.jpg'
-import popSmokeCoverTwo from "./pictures/pop-smoke-cover-two.jpg"
+import chrisBrownCover from "../pictures/cbcover.png"
+import popSmokeCover from "../pictures/pscover.jpg"
+import brysonTillerCover from "../pictures/brsyson-tiller-cover.jpeg"
+import migosCover from "../pictures/mgcover.webp"
+import wizKhalifa from "../pictures/wizkhacover.jpg"
+import popSmokeCoverImg from '../pictures/pop-smoke-song.jpg'
+import popSmokeCoverTwo from "../pictures/pop-smoke-cover-two.jpg"
 
 
 const albumList = [
