@@ -23,7 +23,7 @@ import rihannaSong from './songs/rihanna.mp3'
 import rihannaSongTwo from './songs/rihanna-diamonds-song.mp3'
 import rihannaCover from './pictures/rihanna-songcover.jpg'
 import rihannaCoverTwo from './pictures/rihanna-wild-img.png'
-import lilMoseyCover from './pictures/lilmoseypfp-image.jpeg'
+import lilMoseyCover from './pictures/lilmosey-pfp-image.jpeg'
 import lilMoseyCoverTwo from "./pictures/lilmosey-notice-img.jpg"
 import lilMoseySongTwo from './songs/lilmosey-noticed.mp3'
 import lilMoseySong from './songs/lilmosey-blueberryfaygo.mp3'
