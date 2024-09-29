@@ -4,11 +4,11 @@ import chrisBrownCoverThree from './pictures/chris-brown-freaky-friday.png'
 import chrisBrownCoverTwo from "./pictures/chris-brown-dont-judge-img.jpeg"
 import wizkhalifeImage from './pictures/wizkhaimage.jpg'
 import wizkhalifeCover from './pictures/wizkhacover.jpg'
-import wizkhalifeCoverTwo from "./pictures/wizkhalifa- see-you-again-img.jpg"
+import wizkhalifeCoverTwo from "./pictures/wizkhalifa- see-you-again.jpg"
 import rajahwildImage from "./pictures/rajahwild.jpg"
 import rajahwildCover from "./pictures/rajahwildcover.jpg"
-import rajahwildCoverTwo from "./pictures/rajahwild-lights-off-img.jpeg"
-import rihannaCover from "./pictures/rihanna-wild-img.png"
+import rajahwildCoverTwo from "./pictures/rajahwild-lights-off.jpeg"
+import rihannaCover from "./pictures/rihanna-wild.png"
 import lilMoseyCover from "./pictures/lilmosey-cover-image.jpeg"
 import lilMoseyCoverTwo from "./pictures/lilmosey-notice-img.jpg"
 import theWeekendCover from "./pictures/the-weekend-the-hills.jpg"
@@ -17,12 +17,12 @@ import theWeekndCoverThree from './pictures/the-weekend-creepin.jpg'
 import eddyGBombaCover from "./pictures/eddygbomba-song-img.jpg"
 import popSmokeCover from "./pictures/pop-smoke-song-img.jpg"
 import popSmokeCoverTwo from "./pictures/pop-smoke-cover-two.jpg"
-import brysonTillerImg from "./pictures/brsyson-tiller-pfp-img.jpeg"
-import brysonTillerCover from "./pictures/brsyson-tiller-cover-img.jpeg"
-import brysonTillerCoverTwo from "./pictures/bryson-tiller-blame-img.jpg"
-import brysonTillerCoverThree from './pictures/bryson-tiller-outta-time-img.jpg'
+import brysonTillerImg from "./pictures/brsyson-tiller-pfp.jpeg"
+import brysonTillerCover from "./pictures/brsyson-tiller-cover.jpeg"
+import brysonTillerCoverTwo from "./pictures/bryson-tiller-blame.jpg"
+import brysonTillerCoverThree from './pictures/bryson-tiller-outta-time.jpg'
 import summerWalkerCover from './pictures/summer-walker-playing-games.png'
-import summerWalkerCoverTwo from "./pictures/summer-walker-thru-img.jpeg"
+import summerWalkerCoverTwo from "./pictures/summer-walker-thru.jpeg"
 import summerWalkerCoverThree from './pictures/summer-walker-body.webp'
 
 
