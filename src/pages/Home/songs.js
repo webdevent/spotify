@@ -2,49 +2,49 @@
 import chrisBrownCover from './pictures/chrisBrown-sensational.jpeg'
 import chrisBrownCoverTwo from "./pictures/chris-brown-dont-judge-img.jpeg"
 import chrisBrownSong from './songs/chris-brown.mp3'
-import chrisBrownSongTwo from './songs/chrisbrown-Dont-Judge-Me.mp3'
-import chrisBrownSongThree from './songs/chris-brown-Freaky Friday.mp3'
+import chrisBrownSongTwo from './songs/chrisbrown-dont-judge-me.mp3'
+import chrisBrownSongThree from './songs/chris-brown-freaky-friday.mp3'
 import chrisBrownCoverThree from './pictures/chris-brown-freaky-friday.png'
 import summerWalkerCover from './pictures/summer-walker-playing-games.png'
 import summerWalkerCoverTwo from "./pictures/summer-walker-thru-img.jpeg"
 import summerWalkerCoverThree from './pictures/summer-walker-body.webp'
-import summerWalkerSongTwo from './songs/Summer Walker-Come Thru.mp3'
+import summerWalkerSongTwo from './songs/summer-walker-come-thru.mp3'
 import summerWalkerSong from './songs/summerwalkersong.mp3'
-import summerWalkerSongThree from './songs/Summer Walker - Body.mp3'
+import summerWalkerSongThree from './songs/summer-walker-body.mp3'
 import taylorSwiftCover from './pictures/taylorSwift-badBlood.jpeg'
 import taylorSwiftSong from './songs/taylor-swift.mp3'
-import theWeekndCover from './pictures/TheWeeknd-The_Hills.jpg'
-import theWeekndCoverTwo from "./pictures/TheWeeknd-Starboy-img.jpeg"
-import theWeekndCoverThree from './pictures/TheWeeknd-creepin-img.jpg'
-import theWeekndSongTwo from "./songs/The Weeknd - Starboy.mp3"
+import theWeekndCover from './pictures/the-weekend-the-hills.jpg'
+import theWeekndCoverTwo from "./pictures/the-weekend-starboy.jpeg"
+import theWeekndCoverThree from './pictures/the-weekend-creepin.jpg'
+import theWeekndSongTwo from "./songs/the-weeknd-starboy.mp3"
 import theWeekndSong from './songs/the-weeknd.mp3'
-import theWeekndSongThree from './songs/The-Weeknd-creepin.mp3'
+import theWeekndSongThree from './songs/the-weeknd-creepin.mp3'
 import rihannaSong from './songs/rihanna.mp3'
 import rihannaSongTwo from './songs/rihanna-diamonds-song.mp3'
 import rihannaCover from './pictures/rihanna-songcover.jpg'
 import rihannaCoverTwo from './pictures/rihanna-wild-img.png'
-import lilMoseyCover from './pictures/lilMoseypfp-image.jpeg'
-import lilMoseyCoverTwo from "./pictures/lilMosey-notice-img.jpg"
-import lilMoseySongTwo from './songs/Lil Mosey - Noticed.mp3'
-import lilMoseySong from './songs/lilMosey-BlueberryFaygo.mp3'
+import lilMoseyCover from './pictures/lilmoseypfp-image.jpeg'
+import lilMoseyCoverTwo from "./pictures/lilmosey-notice-img.jpg"
+import lilMoseySongTwo from './songs/lilmosey-noticed.mp3'
+import lilMoseySong from './songs/lilmosey-blueberryfaygo.mp3'
 import rajahWildCover from './pictures/rajahwildcover.jpg'
 import rajahwildCoverTwo from "./pictures/rajahwild-lights-off-img.jpeg"
 import rajahWildSong from './songs/rajahwildsong.mp3'
-import rajahwildSongTwo from "./songs/RajahWild - Wild Out.mp3"
+import rajahwildSongTwo from "./songs/rajahwild-wild-out.mp3"
 import popSmokeCover from './pictures/pop-smoke-song-img.jpg'
-import popSmokeSong from './songs/Pop Smoke - The Woo.mp3'
+import popSmokeSong from './songs/pop-smoke-the-woo.mp3'
 import popSmokeCoverTwo from "./pictures/pop-smoke-cover-two.jpg"
 import popSmokeSongTwo from "./songs/pop-smoke.mp3"
 import brysonTillerCover from "./pictures/brsyson-tiller-cover-img.jpeg"
-import brysonTillerSong from "./songs/Bryson Tiller - Right My Wrongs.mp3"
+import brysonTillerSong from "./songs/bryson-tiller-right-my-wrongs.mp3"
 import brysonTillerCoverTwo from "./pictures/bryson-tiller-blame-img.jpg"
-import brysonTillerSongTwo from "./songs/Bryson Tiller - Blame.mp3"
+import brysonTillerSongTwo from "./songs/bryson-tiller-blame.mp3"
 import wizkhalifeCover from './pictures/wizkhacover.jpg'
 import wizkhalifeCoverTwo from "./pictures/wizkhalifa- see-you-again-img.jpg"
-import wizkhalifeSong from "./songs/Wiz khalifa - We Dem Boyz.mp3"
-import wizkhalifeSongTwo from "./songs/Wiz Khalifa - We Dem Boyz.mp3"
+import wizkhalifeSong from "./songs/wiz-khalifa-we-dem-boyz.mp3"
+import wizkhalifeSongTwo from "./songs/wiz-khalifa-see-you-again.mp3"
 import kendrickLamarCover from "./pictures/ken-lam-not-like-us.jpeg"
-import kendrickLamarSong from "./songs/Kendrick Lamar - Not Like Us.mp3"
+import kendrickLamarSong from "./songs/kendrick-lamar-not-like-us.mp3"
 
 const song = [
     {
@@ -114,7 +114,7 @@ const song = [
         song: lilMoseySong,
     },
     {
-        name: "Notice",
+        name: "Noticed",
         artist: "Lil Mosey",
         image: lilMoseyCoverTwo,
         song: lilMoseySongTwo,
