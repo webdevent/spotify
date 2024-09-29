@@ -5,7 +5,7 @@ import chrisBrownSong from './songs/chris-brown.mp3'
 import chrisBrownSongTwo from './songs/chrisbrown-Dont-Judge-Me.mp3'
 import chrisBrownSongThree from './songs/chris-brown-Freaky Friday.mp3'
 import chrisBrownCoverThree from './pictures/chris-brown-freaky-friday.png'
-import summerWalkerCover from './pictures/summerWalker-Playing_Games.png'
+import summerWalkerCover from './pictures/summer-walker-playing-games.png'
 import summerWalkerCoverTwo from "./pictures/summer-walker-thru-img.jpeg"
 import summerWalkerCoverThree from './pictures/summer-walker-body.webp'
 import summerWalkerSongTwo from './songs/Summer Walker-Come Thru.mp3'

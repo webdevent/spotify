@@ -21,7 +21,7 @@ import brysonTillerImg from "./pictures/brsyson-tiller-pfp-img.jpeg"
 import brysonTillerCover from "./pictures/brsyson-tiller-cover-img.jpeg"
 import brysonTillerCoverTwo from "./pictures/bryson-tiller-blame-img.jpg"
 import brysonTillerCoverThree from './pictures/bryson-tiller-outta-time-img.jpg'
-import summerWalkerCover from './pictures/summerWalker-Playing_Games.png'
+import summerWalkerCover from './pictures/summer-walker-playing-games.png'
 import summerWalkerCoverTwo from "./pictures/summer-walker-thru-img.jpeg"
 import summerWalkerCoverThree from './pictures/summer-walker-body.webp'
 
